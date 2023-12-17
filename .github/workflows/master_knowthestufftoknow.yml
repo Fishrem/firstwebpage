@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'knowthestufftoknow'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF521C2D70374EC6A2E729A31B5B5FEF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A0B0DD72C53D4F848D80A03789B9B5EE }}
